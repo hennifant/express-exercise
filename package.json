@@ -1,7 +1,7 @@
 {
   "name": "expresstest",
   "version": "1.0.0",
-  "description": "",
+  "description": "Click on \"Use this template\", clone the repo locally and solve the exercises in `routes/jokes.js`.",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -12,5 +12,15 @@
   "dependencies": {
     "express": "^4.17.3",
     "nanoid": "^3.3.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hennifant/express-exercise.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/hennifant/express-exercise/issues"
+  },
+  "homepage": "https://github.com/hennifant/express-exercise#readme"
 }
